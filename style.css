@@ -1,0 +1,86 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+nav{
+
+    color: white;
+    background-color: black;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+h1,ul,li{
+    display: inline;
+  
+}
+h1{
+    padding-left: 30px;
+}
+ul{
+    margin-left: 800px;
+}
+li{
+    color: rgb(123, 124, 114);
+}
+li:hover{
+    color: deepskyblue;
+    cursor: pointer;
+}
+hr{
+     color:green;
+}
+input{
+
+    width: 50%;
+    text-align: center;
+    padding: 10px;
+    margin: 30px;
+    margin-left: 250px;
+}
+
+.box{
+
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    display: inline-block;
+    width: 220px;
+    
+
+}
+.product{
+    text-align: center;
+}
+
+.aboutus{
+    
+        text-align: center;
+        display: inline;
+        margin-left: 46%;
+        margin-top: 80px;
+        p{
+
+            text-align: center;
+        }
+
+       .c{
+        text-align: center;
+        display: inline;
+        margin-left: 100px;
+        margin-top: 100px;
+       }
+       h1{
+        margin-left: 500px;
+       }
+
+    }
+
+    .contactus{
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding: 40px;
+       
+        
+    }
